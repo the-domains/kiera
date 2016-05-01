@@ -1,0 +1,28 @@
+name: Kiera
+favicon: null
+layout_spectrum: 0.5221703604329377
+typography_spectrum: 0.5780192883685231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8115899409167469
+  lightness: 0.027062138309702277
+  saturation: 0.0038954277988523245
+  rhythmicContrast: 0.16202200227417052
+purpose: []
